@@ -39,3 +39,17 @@
 - Bilal Qureshi, Faisal Kamiran, Asim Karim, Salvatore Ruggieri, Dino Pedreschi: [Causal Inference for Social Discrimination Reasoning](https://link.springer.com/article/10.1007%2Fs10844-019-00580-x). J. Intell. Inf. Syst. 54(2) 2020.
 - Lu Zhang, Yongkai Wu, Xintao Wu: [Causal Modeling-Based Discrimination Discovery and Removal: Criteria, Bounds, and Algorithms](https://ieeexplore.ieee.org/document/8477109). TKDD 31 2019.
 - Yongkai Wu, Lu Zhang, Xintao Wu, Hanghang Tong: [PC-Fairness: A Uniﬁed Framework for Measuring Causality-Based Fairness](https://proceedings.neurips.cc/paper/2019/hash/44a2e0804995faf8d2e3b084a1e2db1d-Abstract.html). NeurIPS 2019.
+
+## 2020
+
+- Coston, Amanda; Mishler, Alan; Kennedy, Edward H.; Chouldechova, Alexandra: [Counterfactual risk assessments, evaluation, and fairness](https://doi.org/10.1145/3351095.3372851)
+- Qureshi, Bilal; Kamiran, Faisal; Karim, Asim; Ruggieri, Salvatore; Pedreschi, Dino: [Causal inference for social discrimination reasoning](https://doi.org/10.1007/s10844-019-00580-x)
+- Huang, Wen; Wu, Yongkai; Zhang, Lu; Wu, Xintao: [Fairness through equality of effort](https://doi.org/10.1145/3366424.3383558)
+- Ogura, Hikaru; Takeda, Akiko: [Convex fairness constrained model using causal effect estimators](https://doi.org/10.1145/3366424.3383556)
+- Yang, Zekun; Feng, Juan: [A causal inference method for reducing gender bias in word embedding relations](https://aaai.org/ojs/index.php/AAAI/article/view/6486)
+- Vig, Jesse; Gehrmann, Sebastian; Belinkov, Yonatan; Qian, Sharon; Nevo, Daniel; Singer, Yaron; Shieber, Stuart M.: [Investigating gender bias in language models using causal mediation analysis](https://proceedings.neurips.cc/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html)
+- Hu, Yaowei; Wu, Yongkai; Zhang, Lu; Wu, Xintao: [Fair multiple decision making through soft interventions](https://proceedings.neurips.cc/paper/2020/hash/d0921d442ee91b896ad95059d13df618-Abstract.html)
+
+## 2021
+
+- Chikahara, Yoichi; Sakaue, Shinsaku; Fujino, Akinori; Kashima, Hisashi: [Learning individually fair classifier with path-specific causal-effect constraint](http://proceedings.mlr.press/v130/chikahara21a.html)
